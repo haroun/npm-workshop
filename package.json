@@ -1,0 +1,28 @@
+{
+  "name": "@haroun/npm-workshop",
+  "version": "1.0.0",
+  "description": "how-to-npm workshop",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-npm": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "how-to-npm",
+    "npm",
+    "workshop"
+  ],
+  "author": "Harouna Traore",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haroun/npm-workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haroun/npm-workshop/issues"
+  },
+  "homepage": "https://github.com/haroun/npm-workshop#readme"
+}
