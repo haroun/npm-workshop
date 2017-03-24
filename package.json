@@ -4,8 +4,7 @@
   "description": "how-to-npm workshop",
   "main": "index.js",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2",
-    "how-to-npm": "^2.4.2"
+    "@linclark/pkg": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
