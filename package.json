@@ -3,9 +3,7 @@
   "version": "1.1.0",
   "description": "how-to-npm workshop",
   "main": "index.js",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "node test.js"
