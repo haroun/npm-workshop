@@ -1,6 +1,6 @@
 {
   "name": "@haroun/npm-workshop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how-to-npm workshop",
   "main": "index.js",
   "dependencies": {
